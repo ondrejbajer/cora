@@ -1,0 +1,23 @@
+<script type="application/ld+json">
+{ "@context": "https://schema.org", 
+ "@type": "BlogPosting",
+ "headline": "<ARTICLE NAME>",
+ "image": "<FEATURED IMAGE>",
+ "datePublished": "DATUM PUBLIKOVÁNÍ ČLÁNKU>",
+ "dateModified": "<DATUM POSLEDNÍ AKTUALIZACE ČLÁNKU>",
+ "author": {
+			"@type": "Organization",
+			"name": "CORA osvětlení",
+			"url": "<URL archiv page autora>",
+		              },  
+  "mainEntityOfPage": "<URL ČLÁNKU>",
+"publisher": {
+    "@type": "Organization",
+    "name": "CORA Osvětlení",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "<ZDE BUDE LOGO WEBU>"
+    }
+  }
+ }
+</script>
